@@ -59,14 +59,14 @@ export default function Home() {
 
             <div className="order-1 lg:order-2">
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-foreground leading-tight">
-                MOHAMADREZA<br />NAJARBASHI
+                MOHAMMAD<br />SHADMAN
               </h1>
               <p className="text-xl md:text-2xl lg:text-3xl text-primary mb-8 font-medium">
-                Platform Engineer | Back-End Developer | Site Reliability Engineer
+                Hosting Security Specialist
               </p>
               <div className="flex flex-wrap gap-4 text-sm md:text-base text-muted-foreground">
                 <a
-                  href="https://github.com/KeyMoad"
+                  href="https://github.com/ShoMadman"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 hover:text-primary transition-colors px-4 py-2 rounded-lg hover:bg-card"
@@ -75,7 +75,7 @@ export default function Home() {
                   KeyMoad
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/mohamadreza-najarbashi/"
+                  href="https://www.linkedin.com/in/mohammad-shadman-0a4bb426a/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 hover:text-primary transition-colors px-4 py-2 rounded-lg hover:bg-card"
@@ -84,14 +84,14 @@ export default function Home() {
                   LinkedIn
                 </a>
                 <a
-                  href="mailto:mohamadreza.najarbashii@gmail.com"
+                  href="mailto:mohammad.shaadmann@gmail.com"
                   className="flex items-center gap-2 hover:text-primary transition-colors px-4 py-2 rounded-lg hover:bg-card"
                 >
                   <Mail className="w-5 h-5" />
                   Email
                 </a>
                 <a
-                  href="https://t.me/KeyMoad"
+                  href="https://t.me/ShoMadman"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 hover:text-primary transition-colors px-4 py-2 rounded-lg hover:bg-card"
